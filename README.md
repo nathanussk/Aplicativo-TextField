@@ -22,7 +22,7 @@ $ git clone https://github.com/nathanussk/Aplicativo-TextField.git
 
 <h1 align="center">
 
-<img src="https://user-images.githubusercontent.com/53570115/137758076-49e4c690-1f30-4912-b2bf-6e38330970fa.png"
+<img src="https://user-images.githubusercontent.com/53570115/138614627-c25c8d7f-e24e-4625-8536-7c7ade6e19cf.png"
     height="400">
 
 </h1>
@@ -31,9 +31,7 @@ $ git clone https://github.com/nathanussk/Aplicativo-TextField.git
 
 <h1 align="center">
 
-<img src="https://user-images.githubusercontent.com/53570115/137758047-cebef951-0148-4c59-9d68-c90d8d394011.png"
-    height="400">
-<img src="https://user-images.githubusercontent.com/53570115/137758059-7c5adb22-99d4-4864-bcea-5e0f945eb876.png"
+<img src="https://user-images.githubusercontent.com/53570115/138614620-71f1a446-02c6-4465-bc18-067db7f2ea1d.png"
     height="400">
 
 </h1>
